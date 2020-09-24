@@ -1,15 +1,6 @@
 import sys 
 import re
-import math
 
-
-
-# Python3 implementation of the approach 
-import math 
-  
-# Recursive function that returns square root 
-# Geeks for geeks === contributed by 29AjayKumar 
-# of a number with precision upto 5 decimal places 
 def sqrt(n):
 	_root = n/2
 	_sum = n/4
